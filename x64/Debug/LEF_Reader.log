@@ -1,0 +1,28 @@
+﻿  main.cpp
+E:\C++\LEF_Reader\main.cpp(40,79): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\C++\LEF_Reader\main.cpp(40,59): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\C++\LEF_Reader\main.cpp(76,43): warning C4838: Преобразование из "T" в "double" требует сужающего преобразования.
+          with
+          [
+              T=unsigned int
+          ]
+E:\C++\LEF_Reader\main.cpp(197,42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+E:\C++\LEF_Reader\main.cpp(197,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+E:\C++\LEF_Reader\main.cpp(254,30): warning C4305: аргумент: усечение из "double" в "float"
+  LEF_Reader.vcxproj -> E:\C++\LEF_Reader\x64\Debug\LEF_Reader.exe

@@ -1,0 +1,11 @@
+E:\C++\LEF_Reader\x64\Debug\LEF_Reader.exe
+E:\C++\LEF_Reader\x64\Debug\LEF_Reader.vcxproj.CopyComplete
+E:\C++\LEF_Reader\x64\Debug\sfml-graphics-d-2.dll
+E:\C++\LEF_Reader\x64\Debug\sfml-window-d-2.dll
+E:\C++\LEF_Reader\x64\Debug\sfml-system-d-2.dll
+E:\C++\LEF_Reader\x64\Debug\freetyped.dll
+E:\C++\LEF_Reader\x64\Debug\zlibd1.dll
+E:\C++\LEF_Reader\x64\Debug\bz2d.dll
+E:\C++\LEF_Reader\x64\Debug\libpng16d.dll
+E:\C++\LEF_Reader\x64\Debug\brotlidec.dll
+E:\C++\LEF_Reader\x64\Debug\brotlicommon.dll
